@@ -1,15 +1,3 @@
-/**********************************************
- * Last Name:   Situ
- * First Name:  Dennis
- * Student ID:  #30052675
- * Course:      CPSC 457
- * Tutorial:    03
- * Assignment:  4
- * Question:    Q4
- *
- * File name: scheduler.cpp
- *********************************************/
-
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
